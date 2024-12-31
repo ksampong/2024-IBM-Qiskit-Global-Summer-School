@@ -1,1 +1,4 @@
 # 2024-IBM-Qiskit-Global-Summer-School
+This repository contains my Python notebooks from the 2024 Qiskit Global Summer School. I participated in this event to deepen my understanding of quantum computing and gain technical experience using quantum systems. The labs covered topics such as quantum circuit design, noise modeling, error correction, and the implementation of quantum algorithms like Grover's Search and Variational Quantum Eigensolver (VQE).
+
+While I struggled with the labs both technically and conceptually, I was able to gain valuable help and insights through discussions on the event’s Discord server. Although I have learned a great deal, I admit that I still do not fully grasp all of the content presented during the event. Nevertheless, these labs have been an important step in building my knowledge and skills in quantum computing.
